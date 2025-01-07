@@ -1,0 +1,14 @@
+[project]
+name = "timestepshiftmodel"
+description = "This is a ComfyUI implementation of the timestep shift technique used in [a/NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic Adversarial Training.](https://arxiv.org/abs/2412.02030)\nFor more details, visit the official [a/NitroFusion GitHub repository](https://github.com/ChenDarYen/NitroFusion)."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/ChenDarYen/ComfyUI-TimestepShiftModel"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-TimestepShiftModel"
+Icon = ""
